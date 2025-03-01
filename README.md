@@ -1,9 +1,7 @@
-# IMDb Dashboard
-
-![image](https://github.com/user-attachments/assets/1f780032-8f7b-46ed-9982-f2b0bfad5699)
-
 
 # 🎬 IMDb Dashboard - Power BI
+
+![image](https://github.com/user-attachments/assets/1f780032-8f7b-46ed-9982-f2b0bfad5699)
 
 ## 📌 Overview
 This project is an **interactive IMDb dashboard** built using **Power BI**, designed to analyze and visualize movie, TV, and video data. The dashboard provides insights into different genres, ratings, votes, and geographic trends across various categories.
