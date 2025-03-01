@@ -1,4 +1,4 @@
-# PowerBI-IMDb
+# IMDb Dashboard
 
 ![image](https://github.com/user-attachments/assets/1f780032-8f7b-46ed-9982-f2b0bfad5699)
 
